@@ -1,0 +1,10 @@
+<head>
+<script>
+console.log('Hom nay la ngay 6 - 10');
+</script>
+</head>
+
+<body>
+
+
+</body>
